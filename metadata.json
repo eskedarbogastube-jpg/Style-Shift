@@ -1,0 +1,5 @@
+{
+  "name": "StyleShift",
+  "description": "An AI-powered fashion editor that lets you instantly change outfits in photos using Gemini's image editing capabilities.",
+  "requestFramePermissions": []
+}
